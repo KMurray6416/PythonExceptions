@@ -19,4 +19,4 @@ except Exception as x:
 else:
     print(f"The result of the conversion from Fahrenheit to Celsius is: {result:.2f} ")
 finally:
-    print("Thank you for choosing your # ! App for weather forecasts!!")
+    print("Thank you for choosing your # 1 App for weather forecasts!!")
